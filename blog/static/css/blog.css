@@ -40,8 +40,15 @@ h1, h2, h3, h4 {
     width: 100%;
 }
 
-.top-menu, .top-menu:hover, .top-menu:visited {
+.top-menu, .top-menu:hover, .top-menu:visited{
     color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.btn-default-edit {
+    /*color: #ffffff;*/
     float: right;
     font-size: 26pt;
     margin-right: 20px;
